@@ -2,4 +2,5 @@
 
 A simple analog clock made with JS to practice and have fun.
 
-#![clock](https://user-images.githubusercontent.com/56682712/126084220-95bc9981-811e-4c37-900f-0daae9c721ee.png)
+![image](https://user-images.githubusercontent.com/56682712/126084268-85e4e1d8-bc1c-4963-b5a2-5a2fddbda14a.png)
+
